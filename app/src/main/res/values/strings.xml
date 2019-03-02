@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Practical Test</string>
+
+    <!--Hints & labels-->
+    <string name="user_list">User List</string>
+    <string name="selected_user_list">Selected User List</string>
+    <string name="retry">Retry</string>
+    <string name="user_email">User Email</string>
+    <string name="user_password">User Password</string>
+    <string name="signin">Sign In</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="job">Job</string>
+    <string name="create">Create</string>
+
+    <!--Validation Messages-->
+    <string name="validate_field_msg">This field can not be empty</string>
+    <string name="validate_email_msg">Please enter user email</string>
+    <string name="invalid_email_msg">Please enter valid user email</string>
+    <string name="validate_password_msg">Please enter user password</string>
+    <string name="confirm_logout">Are you sure?\nYou want to logout.</string>
+    <string name="confirm_delete">Are you sure?\nYou want to delete this user.</string>
+
+    <!--Messages-->
+    <string name="message_no_connection">No Internet Connection</string>
+    <string name="general_error">Oops! There seems to be a problem. We\'re sorry but the server was unable to complete your request. Please try again.</string>
+    <string name="message_ok">OK</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="loading">Loading please wait...</string>
+    <string name="not_registered_text">Not registered yet! Register here</string>
+</resources>
